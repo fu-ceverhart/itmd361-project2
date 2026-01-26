@@ -80,13 +80,32 @@ h2 {
   padding: 0 .5em 0 .5em;
 }
 
-p {
-  margin-left: 2em;
+iframe {
+  border: #333 2px solid;
+  border-radius: .25em;
+  clear: both;
+  float: left;
+  margin: 1em 0 1em 1.25em;
+}
+
+img {
+  border: #333 2px solid;
+  border-radius: .25em;
+  clear: both;
+  float: left;
+  margin: 0 0 1em 1.5em;
+  max-width: 250px;
 }
 
 li {
   margin-left: 1em;
   padding: .25em 0
+}
+
+p {
+  clear: both;
+  margin-left: 2em;
+  padding: .5em 0;
 }
 
 .contact-info {
