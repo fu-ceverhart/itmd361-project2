@@ -62,8 +62,13 @@ nav ul li a {
   text-decoration: none;
 }
 
+h1 {
+  padding-left: .5em;
+}
+
 h2 {
   border-bottom: #333 2px solid;
+  padding-left: .5em;
 }
 
 p {
@@ -75,5 +80,13 @@ li {
 }
 
 .job-title {
+  padding: 0 2.5em;
+  margin: 0;
   font-weight: 700;
+}
+
+.dates {
+  font-style: italic;
+  margin: 0;
+  padding: 0 2.5em;
 }
