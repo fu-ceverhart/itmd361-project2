@@ -79,14 +79,45 @@ li {
   margin-left: 1em;
 }
 
+.dates {
+  font-style: italic;
+  margin: 0;
+  padding: 0 2.5em;
+}
+
+.experience {
+  max-width: 75%;
+  text-align: justify;
+}
+
 .job-title {
   padding: 0 2.5em;
   margin: 0;
   font-weight: 700;
 }
 
-.dates {
-  font-style: italic;
-  margin: 0;
-  padding: 0 2.5em;
+.skills {
+  max-width: 75%;
+}
+
+.skills h3 {
+  background-color: #333;
+  border: #333 1px solid;
+  color: #fff;
+  display: inline-block;
+  border-bottom: none;
+  border-radius: .25em;
+  padding: .25em 1em;
+  margin-bottom: 0;
+  margin-left: 2.15em;
+}
+
+.skills ul {
+  border: #333 1px solid;
+  border-radius: .25em;
+  columns: 3;
+  column-gap: 2rem;
+  list-style: disc;
+  padding: 1em;
+  margin: 0 2.5em 1em 2.5em;
 }
