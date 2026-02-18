@@ -17,7 +17,7 @@
 - [x] Use css to remove the list-style from your resume (e.g., the bullet points)
 - [x] In your html head, the css reset link should come before style.css.
 - [x] You should be cascading your code with 2 spaces, not 4.
-- [ ] Your cascade needs work. All children should be indented 2 spaces to the right of their parent. All siblings should be in the same column. All closing tags should be in the same column (or the exact same row) as their associated opening tag. Look at your code on github to see how the spaces are rendering. 
+- [x] Your cascade needs work. All children should be indented 2 spaces to the right of their parent. All siblings should be in the same column. All closing tags should be in the same column (or the exact same row) as their associated opening tag. Look at your code on github to see how the spaces are rendering. 
 - [ ] Only use empty lines of code between different semantic groupings of code. Like between <head> and <body>, or between <section>s.
 - [ ] Add some <section>s to your html.
 - [ ] No spaces on either side of the = sign of attributes. Attributes should read: alt="name"
