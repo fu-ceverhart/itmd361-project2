@@ -4,9 +4,9 @@
 - [x] You do not have 3 full html pages (-1 point for each missing page)
 - [x] <b> is an obsolete html 4 tag. Use <strong> instead (-0.5 points)
 - [x] <i> is an obsolete html 4 tag. Use <em> instead (-0.5 points)
-- [ ] You have less than 5 CSS style elements (-3 points)
-- [ ] You have less than 7 CSS style elements (-2 points)
-- [ ] You have less than 10 CSS style elements (-1 point)
+- [x] You have less than 5 CSS style elements (-3 points)
+- [x] You have less than 7 CSS style elements (-2 points)
+- [x] You have less than 10 CSS style elements (-1 point)
 - [ ] Make sure your file and folder names are all lowercase (including media).
 - [ ] Move your image files into a media folder.
 - [ ] You forgot a CSS reset.
