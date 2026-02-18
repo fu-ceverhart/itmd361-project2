@@ -22,13 +22,7 @@
 - [x] Add some <section>s to your html.
 - [x] No spaces on either side of the = sign of attributes. Attributes should read: alt="name"
 - [x] You need to use four CSS Floats and/or Positions to achieve some page layout.
-- [ ] After using CSS resets, you need to use margins so that your text is not right at the edge of the page.
+- [x] After using CSS resets, you need to use margins so that your text is not right at the edge of the page.
 
 Score:
 10 out of 10 points
-
-For your final turn-in:
-
-1. You should only have 1 CSS page for your CSS and 1 for the reset. Merge all others.
-
-2. San-serif is a font family. Use an actual font as your backup font in the font stack.
