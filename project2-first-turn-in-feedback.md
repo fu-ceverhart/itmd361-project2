@@ -1,6 +1,6 @@
 - [x] NO STYLE IN YOUR HTML! With html5 we no longer use the width or height attributes on <img>. Instead, use the css width property. (-0.5 points)
 - [x] Never ever use <br> All line spacing should be achieved using css. (-1 point)
-- [ ] Missing navigation (-1 point)
+- [x] Missing navigation (-1 point)
 - [ ] You do not have 3 full html pages (-1 point for each missing page)
 - [ ] <b> is an obsolete html 4 tag. Use <strong> instead (-0.5 points)
 - [ ] <i> is an obsolete html 4 tag. Use <em> instead (-0.5 points)
