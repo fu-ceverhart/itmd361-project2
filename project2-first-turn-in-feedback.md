@@ -9,7 +9,7 @@
 - [x] You have less than 10 CSS style elements (-1 point)
 - [x] Make sure your file and folder names are all lowercase (including media).
 - [x] Move your image files into a media folder.
-- [ ] You forgot a CSS reset.
+- [x] You forgot a CSS reset.
 - [ ] You should only have 1 css page for your css and 1 for the reset. Merge all others.
 - [ ] You need to center your navigation.
 - [ ] Your nav buttons need to be on the same horizontal line. Use floats to achieve this.
