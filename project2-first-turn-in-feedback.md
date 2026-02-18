@@ -11,7 +11,7 @@
 - [x] Move your image files into a media folder.
 - [x] You forgot a CSS reset.
 - [x] You should only have 1 css page for your css and 1 for the reset. Merge all others.
-- [ ] You need to center your navigation.
+- [x] You need to center your navigation.
 - [ ] Your nav buttons need to be on the same horizontal line. Use floats to achieve this.
 - [ ] Use css to remove the text-decoration from your nav (e.g., the underlines).
 - [ ] Use css to remove the list-style from your resume (e.g., the bullet points)
