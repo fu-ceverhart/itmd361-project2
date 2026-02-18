@@ -10,7 +10,7 @@
 - [x] Make sure your file and folder names are all lowercase (including media).
 - [x] Move your image files into a media folder.
 - [x] You forgot a CSS reset.
-- [ ] You should only have 1 css page for your css and 1 for the reset. Merge all others.
+- [x] You should only have 1 css page for your css and 1 for the reset. Merge all others.
 - [ ] You need to center your navigation.
 - [ ] Your nav buttons need to be on the same horizontal line. Use floats to achieve this.
 - [ ] Use css to remove the text-decoration from your nav (e.g., the underlines).
