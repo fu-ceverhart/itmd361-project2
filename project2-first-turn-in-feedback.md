@@ -21,7 +21,7 @@
 - [x] Only use empty lines of code between different semantic groupings of code. Like between <head> and <body>, or between <section>s.
 - [x] Add some <section>s to your html.
 - [x] No spaces on either side of the = sign of attributes. Attributes should read: alt="name"
-- [ ] You need to use four CSS Floats and/or Positions to achieve some page layout.
+- [x] You need to use four CSS Floats and/or Positions to achieve some page layout.
 - [ ] After using CSS resets, you need to use margins so that your text is not right at the edge of the page.
 
 Score:
