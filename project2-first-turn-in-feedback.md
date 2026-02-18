@@ -13,8 +13,8 @@
 - [x] You should only have 1 css page for your css and 1 for the reset. Merge all others.
 - [x] You need to center your navigation.
 - [x] Your nav buttons need to be on the same horizontal line. Use floats to achieve this.
-- [ ] Use css to remove the text-decoration from your nav (e.g., the underlines).
-- [ ] Use css to remove the list-style from your resume (e.g., the bullet points)
+- [x] Use css to remove the text-decoration from your nav (e.g., the underlines).
+- [x] Use css to remove the list-style from your resume (e.g., the bullet points)
 - [ ] In your html head, the css reset link should come before style.css.
 - [ ] You should be cascading your code with 2 spaces, not 4.
 - [ ] Your cascade needs work. All children should be indented 2 spaces to the right of their parent. All siblings should be in the same column. All closing tags should be in the same column (or the exact same row) as their associated opening tag. Look at your code on github to see how the spaces are rendering. 

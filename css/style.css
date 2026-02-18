@@ -197,7 +197,8 @@ p {
   border-radius: .25em;
   columns: 3;
   column-gap: 2rem;
-  list-style: disc;
+  /* list-style: disc; */
+  list-style: none;
   padding: 1em;
   margin: 0 2.5em 1em 2.5em;
 }
