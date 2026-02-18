@@ -12,7 +12,7 @@
 - [x] You forgot a CSS reset.
 - [x] You should only have 1 css page for your css and 1 for the reset. Merge all others.
 - [x] You need to center your navigation.
-- [ ] Your nav buttons need to be on the same horizontal line. Use floats to achieve this.
+- [x] Your nav buttons need to be on the same horizontal line. Use floats to achieve this.
 - [ ] Use css to remove the text-decoration from your nav (e.g., the underlines).
 - [ ] Use css to remove the list-style from your resume (e.g., the bullet points)
 - [ ] In your html head, the css reset link should come before style.css.
