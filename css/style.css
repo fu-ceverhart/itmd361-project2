@@ -30,14 +30,6 @@
   font-display: swap;
 }
 
-#fixed-content-wrapper {
-  margin: 0 auto;
-  max-width: 960px;
-  padding: 1em 1em 4em 1em;
-  text-align: justify;
-  clear: both;
-}
-
 body {
   font-family: 'Montserrat', sans-serif;
 }
@@ -147,6 +139,14 @@ p {
 .experience {
   max-width: 75%;
   text-align: justify;
+}
+
+.fixed-content-wrapper {
+  margin: 0 auto;
+  max-width: 960px;
+  padding: 1em 1em 4em 1em;
+  text-align: justify;
+  clear: both;
 }
 
 .job-title {
